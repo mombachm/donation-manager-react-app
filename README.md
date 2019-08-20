@@ -1,3 +1,9 @@
+## Project setup
+
+- `git clone https://github.com/mombachm/donation-manager-dev3.git`
+
+- `yarn install` inside `donation-manager-dev3` folder.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
